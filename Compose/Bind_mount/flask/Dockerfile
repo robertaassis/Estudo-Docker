@@ -6,6 +6,7 @@ WORKDIR /app
 
 RUN pip install Flask requests flask_mysqldb
 
+
 COPY . .
 
 EXPOSE 5000
