@@ -1,0 +1,24 @@
+nome: Matheus
+
+idade: 30
+
+objeto:
+ versao: 2
+ arquivo: "teste.txt"
+
+lista_1: [1,2,3,4]
+
+lista_2:
+ - "teste"
+ - 10
+ - "Roberta"
+
+obj: {a: 1, b: 2, c: 3, objeto_interno: {d: 4}}
+
+obj_1:
+  a: 1
+  b: 2
+  c: 3
+  objeto_interno: 
+   d: 4
+
